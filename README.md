@@ -1,4 +1,4 @@
-# Bank-Customer-Churn-Analysis
+# Bank Customer Churn Analysis
 
 ## 📌 Project Overview  
 This project focuses on analyzing **customer churn** in the banking sector using Power BI. Churn (customer exit) is a critical problem for businesses, as retaining existing customers is often more cost-effective than acquiring new ones.  
