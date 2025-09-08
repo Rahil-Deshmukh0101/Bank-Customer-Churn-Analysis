@@ -63,7 +63,9 @@ The analysis was visualized using **Power BI** to create an interactive dashboar
 - 💵 Financial Factors (Balance, Salary, Credit Score)  
 - 📉 Exit vs Retained Customers  
 
-*(Add screenshots here for better GitHub presentation: `images/dashboard1.png`, `images/dashboard2.png`)*  
+## 📊 Dashboard Preview
+
+(dashboard ss - customer churn.png)
 
 ---
 
