@@ -71,16 +71,16 @@ The analysis was visualized using **Power BI** to create an interactive dashboar
 
 ## 📌 Insights & Business Impact  
 
-1. **Geographic Churn Distribution** – Germany (**814 churned, 39.97%**), France (**810 churned, 39.76%**), and Spain (**413 churned, 20.27%**) → Germany & France together contribute ~**80% of total churn**.  
-2. **Inactive vs Active Members** – Inactive members churn rate is **27%**, compared to only **14%** for active members → inactivity nearly **doubles churn risk**.  
-3. **Gender-based Churn** – Female customers churn at **25%**, while male customers churn at **17%** → females are **1.47x more likely** to leave.  
-4. **Age Factor** – Customers aged **35–45** churn at **32%**, compared to just **12%** in the 18–25 group → middle-aged customers are the most vulnerable.  
-5. **Balance Effect** – Customers with a balance of **0** have a churn rate of **30%**, compared to **18%** for balances above ₹100K → low balance strongly increases exit probability.  
-6. **Credit Score** – Customers with scores **<600** churn at **28%**, while those **>750** churn at only **11%** → low-score customers are **2.5x more likely** to churn.  
+1. **Geographic Churn Distribution** – Germany (**814 churned, 39.97%**), France (**810 churned, 39.76%**), and Spain (**413 churned, 20.27%**), Germany & France together contribute **80% of total churn**.  
+2. **Inactive vs Active Members** – Inactive members churn rate is **27%**, compared to only **14%** for active members, inactivity nearly **doubles churn risk**.  
+3. **Gender-based Churn** – Female customers churn at **25%**, while male customers churn at **17%**, females are **1.47x more likely** to leave.  
+4. **Age Factor** – Customers aged **35–45** churn at **32%**, compared to just **12%** in the 18–25 group, middle-aged customers are the most vulnerable.  
+5. **Balance Effect** – Customers with a balance of **0** have a churn rate of **30%**, compared to **18%** for balances above ₹100K, low balance strongly increases exit probability.  
+6. **Credit Score** – Customers with scores **<600** churn at **28%**, while those **>750** churn at only **11%**, low-score customers are **2.5x more likely** to churn.  
 7. **Salary Impact** – Mid-salary (₹50K–₹100K) churn is **23%**, compared to **15%** for high salary (>₹150K) and **16%** for low salary (<₹30K).  
-8. **Tenure** – Customers with tenure **1–2 years** churn at **31%**, while those with tenure **>8 years** churn at just **9%** → long-term customers are **3.4x more loyal**.  
-9. **Credit Card Ownership** – Holders churn at **19%**, while non-holders churn at **21%** → only a **2% difference**, showing limited retention effect.  
-10. **Overall Churn Rate** – Out of **10,238 customers**, **2,037 churned (19.9%)** → nearly **1 in 5 customers exit**, creating significant acquisition cost pressure.  
+8. **Tenure** – Customers with tenure **1–2 years** churn at **31%**, while those with tenure **>8 years** churn at just **9%**, long-term customers are **3.4x more loyal**.  
+9. **Credit Card Ownership** – Holders churn at **19%**, while non-holders churn at **21%** only a **2% difference**, showing limited retention effect.  
+10. **Overall Churn Rate** – Out of **10,238 customers**, **2,037 churned (19.9%)** nearly **1 in 5 customers exit**, creating significant acquisition cost pressure.  
 
 ---
 
