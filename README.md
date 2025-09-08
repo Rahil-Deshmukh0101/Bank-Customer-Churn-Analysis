@@ -65,7 +65,7 @@ The analysis was visualized using **Power BI** to create an interactive dashboar
 
 ## 📊 Dashboard Preview
 
-(dashboard ss - customer churn.png)
+![Dashboard Screenshot](dashboard%20ss%20-%20customer%20churn.png)
 
 ---
 
