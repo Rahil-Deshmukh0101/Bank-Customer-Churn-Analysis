@@ -90,3 +90,15 @@ The analysis was visualized using **Power BI** to create an interactive dashboar
 - Implement **recommendation systems** for personalized retention offers.  
 
 ---
+
+## 📌 Note on Dashboard Features
+
+Many of the visualizations in this **Customer Churn Analysis Dashboard** are **integrated with drill-downs**, allowing users to interactively explore customer churn patterns across different dimensions such as:  
+
+- Geography (Country/Region)  
+- Customer Activity (Active vs Inactive)  
+- Demographics (Age, Gender)  
+- Account Features (Credit Card, Balance, Credit Score)  
+
+This design enables a **more in-depth analysis** and helps identify high-risk customer segments effectively.
+
